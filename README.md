@@ -1,1 +1,11 @@
-Different image processing techniques like rescaling,binary thresholding,improving contrast, erosion,dilation, changing config like psm etc have been used to improve tesseract ocr accuracy 
+Different image processing techniques have been used to improve tesseract ocr accuracy like 
+rescaling 
+binary thresholding 
+adaptive thresholding 
+improving contrast
+erosion
+dilation
+noise reduction
+contour Detection 
+ROI 
+changing config of the ocr engine like psm 
